@@ -8,7 +8,9 @@ Made in August 2024 as a part of the [grit:lab](https://gritlab.ax/) curriculum.
 - Rust
 
 ### Installation
-`cargo build --release`
+  1. Installer la bibliothèque libacl :
+       `sudo apt-get install libacl1-dev`
+  2. `cargo build --release`
 
 ### Run
 `cargo run --release`
