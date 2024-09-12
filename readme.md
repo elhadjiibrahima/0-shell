@@ -10,13 +10,12 @@ Made in August 2024 as a part of the [grit:lab](https://gritlab.ax/) curriculum.
 ### Installation
   1. Installer la bibliothèque libacl :
        `sudo apt-get install libacl1-dev`
-  2. `cargo build --release`
 
-### Run
-`cargo run --release`
 
-### Build
-Binary will be created inside `target/release`. Default name is `gritlab-shell`.
+## Use programm
+
+`go run.`
+
 
 ### Features
 - History
